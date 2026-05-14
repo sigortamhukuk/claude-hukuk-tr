@@ -1,0 +1,44 @@
+{
+  "name": "claude-hukuk-tr",
+  "owner": {
+    "name": "Av. Melih Küçükcankurtaran",
+    "email": "melih.kucukcankurtaran@hs01.kep.tr"
+  },
+  "plugins": [
+    {
+      "name": "sigorta-hukuk",
+      "source": "./sigorta-hukuk",
+      "description": "Sigorta hukuku pratiği — araç değer kaybı, pert-total, STK itiraz dilekçeleri"
+    },
+    {
+      "name": "dilekce-uretimi",
+      "source": "./dilekce-uretimi",
+      "description": "UYAP uyumlu .docx dilekçe üretimi"
+    },
+    {
+      "name": "yargitay-arastirma",
+      "source": "./yargitay-arastirma",
+      "description": "Yargı MCP üzerinden Yargıtay içtihat araştırması"
+    },
+    {
+      "name": "ihtarname",
+      "source": "./ihtarname",
+      "description": "İhtarname taslak hazırlama"
+    },
+    {
+      "name": "dava-yonetimi",
+      "source": "./dava-yonetimi",
+      "description": "Dava ve dosya takip iş akışı"
+    },
+    {
+      "name": "hukuk-seo",
+      "source": "./hukuk-seo",
+      "description": "Hukuk büroları için SEO referans skill'leri"
+    },
+    {
+      "name": "is-takibi",
+      "source": "./is-takibi",
+      "description": "Büro içi iş ve dosya takip"
+    }
+  ]
+}
