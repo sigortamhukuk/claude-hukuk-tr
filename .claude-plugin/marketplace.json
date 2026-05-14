@@ -6,39 +6,39 @@
   },
   "plugins": [
     {
-      "name": "sigorta-hukuk",
-      "source": "./sigorta-hukuk",
-      "description": "Sigorta hukuku pratiği — araç değer kaybı, pert-total, STK itiraz dilekçeleri"
+      "name": "arac-deger-kaybi-tr",
+      "source": "./arac-deger-kaybi-tr",
+      "description": "Araç değer kaybı talepleri ve STK itiraz dilekçeleri"
     },
     {
-      "name": "dilekce-uretimi",
-      "source": "./dilekce-uretimi",
-      "description": "UYAP uyumlu .docx dilekçe üretimi"
-    },
-    {
-      "name": "yargitay-arastirma",
-      "source": "./yargitay-arastirma",
-      "description": "Yargı MCP üzerinden Yargıtay içtihat araştırması"
-    },
-    {
-      "name": "ihtarname",
-      "source": "./ihtarname",
-      "description": "İhtarname taslak hazırlama"
-    },
-    {
-      "name": "dava-yonetimi",
-      "source": "./dava-yonetimi",
+      "name": "dava-yonetim-tr",
+      "source": "./dava-yonetim-tr",
       "description": "Dava ve dosya takip iş akışı"
     },
     {
-      "name": "hukuk-seo",
-      "source": "./hukuk-seo",
+      "name": "dilekce-uretici-tr",
+      "source": "./dilekce-uretici-tr",
+      "description": "UYAP uyumlu .docx dilekçe üretimi"
+    },
+    {
+      "name": "ihtarname-tr",
+      "source": "./ihtarname-tr",
+      "description": "İhtarname taslak hazırlama"
+    },
+    {
+      "name": "seo-hukuk-tr",
+      "source": "./seo-hukuk-tr",
       "description": "Hukuk büroları için SEO referans skill'leri"
     },
     {
-      "name": "is-takibi",
-      "source": "./is-takibi",
-      "description": "Büro içi iş ve dosya takip"
+      "name": "sigorta-tahkim-tr",
+      "source": "./sigorta-tahkim-tr",
+      "description": "Sigorta Tahkim Komisyonu itiraz dilekçeleri ve süreç yönetimi"
+    },
+    {
+      "name": "yargitay-arastirma-tr",
+      "source": "./yargitay-arastirma-tr",
+      "description": "Yargı MCP üzerinden Yargıtay içtihat araştırması"
     }
   ]
 }
